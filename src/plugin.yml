@@ -1,0 +1,12 @@
+name: LobbySign
+version: 1.0
+author: Adiber
+main: at.LobbySign.main.Main
+prefix: LobbySigns
+description: A plugin for creating LobbySigns (like on GommeHD.net)
+softdepend: [Multiverse-Core]
+commands:
+   setsign:
+      description: sets a new sign
+   signs:
+      description: reload signs config
